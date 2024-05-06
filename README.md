@@ -33,6 +33,7 @@ endmodule
 ```
 # OUTPUT
 
-![image](https://github.com/j-gugan/PRIORITY_ENCODER/assets/163828735/141f8d43-87d9-4419-a6b5-c857732e40de)
+![image](https://github.com/lavakumaryadhava/PRIORITY_ENCODER/assets/162088994/ef15d644-801d-439f-9577-02ca1209570e)
+
 # RESULT
 Thus,the priority encoder using vivado 2023.2 is simuated and synthesised.
